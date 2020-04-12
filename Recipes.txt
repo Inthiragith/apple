@@ -7,6 +7,7 @@ Kotthu
 Rice
 chicken fry 
 
+
 Beans
 Pizza
 
@@ -16,3 +17,9 @@ thankyou ;
 
 
 Done my changes
+
+thankyou ;
+
+
+Final Copy
+
